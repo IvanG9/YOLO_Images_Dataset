@@ -1,0 +1,5 @@
+train: /content/gdrive/My Drive/ProyectosComputerVision/Entregables YOLOv11/images/train
+val: /content/gdrive/My Drive/ProyectosComputerVision/Entregables YOLOv11/images/validation
+
+names: 
+  0: phone

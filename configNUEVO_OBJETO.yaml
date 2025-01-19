@@ -1,0 +1,8 @@
+path: C:/Users/Ivan/Documents/IA/Programació d'Intel·ligència Artificial/Programas/UD04_ComputerVision/YOLOV11/data
+
+train: images/test
+val: images/validation
+
+# Classes
+names:
+  - Telefono

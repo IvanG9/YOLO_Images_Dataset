@@ -1,0 +1,7 @@
+boto3
+botocore 
+
+# class-descriptions-boxable
+# oidv6-train-annotations-bbox
+# test-annotations-bbox
+# validation-annotations-bbox
